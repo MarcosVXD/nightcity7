@@ -1,0 +1,16 @@
+# Node
+backend/node_modules/
+backend/nightcity.db
+backend/nightcity.db-shm
+backend/nightcity.db-wal
+
+# Flutter / Dart
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+night_city_eddies_app/
+
+# IDE
+.idea/
+.vscode/

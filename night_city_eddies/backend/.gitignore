@@ -1,0 +1,4 @@
+node_modules/
+nightcity.db
+nightcity.db-shm
+nightcity.db-wal
